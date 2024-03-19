@@ -16,11 +16,9 @@ Take checkout of main branch in local like below screenshot
 
 Build should be success with maven install.
 
-![Build_Success.png](..%2FUsers%2Fabhilad1%2FPictures%2FBuild_Success.png)
 After Build, target folder is created with  game_design-0.0.1-jar-with-dependencies.jar 
 
 execute command from target folder:
-java -jar game_design-0.0.1-jar-with-dependencies.jar config.json 100
+java -jar game_design-0.0.1-jar-with-dependencies.jar config.json 8888
 
 Test cases executed in below screenshot.
-![](C:\Users\abhilad1\Pictures\win_and_lost_cases.png)
