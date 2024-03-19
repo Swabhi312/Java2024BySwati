@@ -14,11 +14,11 @@ User will place a bet with any amount which we call *betting amount*
 ## Steps to execute this Game ##
 Take checkout of main branch in local like below screenshot
 
-Build should be success with maven install.
+Build should be success with maven install like Build_Success.png(which is present above in project structure)
 
 After Build, target folder is created with  game_design-0.0.1-jar-with-dependencies.jar 
 
 execute command from target folder:
 java -jar game_design-0.0.1-jar-with-dependencies.jar config.json 8888
 
-Test cases executed in below screenshot.
+Test cases executed in  screenshot.(win_lost_cases.png) 
